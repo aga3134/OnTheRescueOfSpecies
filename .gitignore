@@ -1,0 +1,8 @@
+.vs/
+ImageSource/
+Library/
+obj/
+video/
+*.meta
+*.apk
+*.keystore
